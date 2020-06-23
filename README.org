@@ -1,0 +1,1 @@
+Bogus project to practice contributing to a project hosted on GitHub as part of the WestGrid Summer School 2020.
