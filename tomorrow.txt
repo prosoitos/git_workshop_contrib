@@ -1,0 +1,2 @@
+Tomorrow we will start looking into Python: intro in the morning, more advanced scientific Python in the
+afternoon.
